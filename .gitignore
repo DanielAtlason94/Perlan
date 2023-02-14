@@ -3,3 +3,4 @@
 .idea/libraries/Dart_Packages.xml
 .dart_tool/package_config.json
 .packages
+pubspec.lock
